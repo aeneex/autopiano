@@ -1,0 +1,1583 @@
+2026-06-28 22:42:57,468 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 22:42:57,468 [INFO] (config.py:37): Configuration file not found. Creating a new one with defaults at config.json
+2026-06-28 22:42:57,469 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 22:42:57,469 [ERROR] (mapper.py:16): Mapping file not found at: virtual_piano.json
+2026-06-28 22:42:57,476 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 22:43:18,713 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 22:46:16,142 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 22:46:16,143 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 22:46:16,143 [ERROR] (mapper.py:16): Mapping file not found at: virtual_piano.json
+2026-06-28 22:46:16,144 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 22:46:38,602 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-28 22:46:38,634 [ERROR] (midi_reader.py:25): Failed to load MIDI file 'C:/Users/ixubux/Downloads/Rush E.mid': data byte must be in range 0..127
+2026-06-28 22:48:14,164 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-28 22:48:14,188 [ERROR] (midi_reader.py:25): Failed to load MIDI file 'C:/Users/ixubux/Downloads/Rush E.mid': data byte must be in range 0..127
+2026-06-28 22:52:49,692 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 22:52:49,692 [INFO] (main.py:481): Application shut down cleanly.
+2026-06-28 23:10:51,641 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:10:51,642 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:10:51,642 [ERROR] (mapper.py:16): Mapping file not found at: virtual_piano.json
+2026-06-28 23:10:51,642 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:10:54,680 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-28 23:10:54,689 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:10:54,722 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-28 23:10:54,723 [INFO] (main.py:224): Song loaded: Mrs Magic.mid
+2026-06-28 23:11:00,277 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:11:00,278 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:11:00,278 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:11:02,512 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:11:03,013 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:11:03,014 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:11:09,545 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:09,546 [INFO] (scheduler.py:95): Humanize mode updated to: True
+2026-06-28 23:11:10,408 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:10,409 [INFO] (scheduler.py:95): Humanize mode updated to: False
+2026-06-28 23:11:24,829 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:11:24,829 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:11:24,830 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:11:32,969 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:32,969 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-28 23:11:32,985 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:32,985 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-28 23:11:33,024 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,024 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-28 23:11:33,040 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,040 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-28 23:11:33,056 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,056 [INFO] (scheduler.py:83): Playback speed updated to: 1.50
+2026-06-28 23:11:33,072 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,072 [INFO] (scheduler.py:83): Playback speed updated to: 1.60
+2026-06-28 23:11:33,088 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,089 [INFO] (scheduler.py:83): Playback speed updated to: 1.70
+2026-06-28 23:11:33,129 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,129 [INFO] (scheduler.py:83): Playback speed updated to: 1.80
+2026-06-28 23:11:33,152 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:33,152 [INFO] (scheduler.py:83): Playback speed updated to: 1.90
+2026-06-28 23:11:36,009 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,010 [INFO] (scheduler.py:83): Playback speed updated to: 1.80
+2026-06-28 23:11:36,072 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,072 [INFO] (scheduler.py:83): Playback speed updated to: 1.70
+2026-06-28 23:11:36,096 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,097 [INFO] (scheduler.py:83): Playback speed updated to: 1.60
+2026-06-28 23:11:36,128 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,128 [INFO] (scheduler.py:83): Playback speed updated to: 1.50
+2026-06-28 23:11:36,152 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,152 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-28 23:11:36,168 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,168 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-28 23:11:36,217 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,217 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-28 23:11:36,393 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,393 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-28 23:11:36,920 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:11:36,920 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-28 23:11:49,285 [INFO] (main.py:365): Mapped note 60 to key 'shift_l'
+2026-06-28 23:11:49,445 [INFO] (main.py:365): Mapped note 61 to key 'C'
+2026-06-28 23:11:50,267 [INFO] (main.py:365): Mapped note 62 to key 'c'
+2026-06-28 23:11:50,834 [INFO] (main.py:365): Mapped note 63 to key 'c'
+2026-06-28 23:11:51,212 [INFO] (main.py:365): Mapped note 64 to key 'c'
+2026-06-28 23:11:51,448 [INFO] (main.py:365): Mapped note 65 to key 's'
+2026-06-28 23:11:51,667 [INFO] (main.py:365): Mapped note 66 to key 'd'
+2026-06-28 23:11:52,072 [INFO] (main.py:365): Mapped note 67 to key 'd'
+2026-06-28 23:11:52,350 [INFO] (main.py:365): Mapped note 68 to key 'f'
+2026-06-28 23:11:52,637 [INFO] (main.py:365): Mapped note 69 to key 's'
+2026-06-28 23:11:52,751 [INFO] (main.py:365): Mapped note 70 to key 'd'
+2026-06-28 23:11:52,876 [INFO] (main.py:365): Mapped note 71 to key 'f'
+2026-06-28 23:11:53,011 [INFO] (main.py:365): Mapped note 72 to key 's'
+2026-06-28 23:11:53,093 [INFO] (main.py:365): Mapped note 73 to key 'd'
+2026-06-28 23:11:53,240 [INFO] (main.py:365): Mapped note 74 to key 'f'
+2026-06-28 23:11:53,546 [INFO] (main.py:365): Mapped note 75 to key 's'
+2026-06-28 23:11:53,781 [INFO] (main.py:365): Mapped note 76 to key 'd'
+2026-06-28 23:11:53,951 [INFO] (main.py:365): Mapped note 77 to key 'f'
+2026-06-28 23:11:54,235 [INFO] (main.py:365): Mapped note 78 to key 'a'
+2026-06-28 23:11:54,367 [INFO] (main.py:365): Mapped note 79 to key 's'
+2026-06-28 23:11:54,566 [INFO] (main.py:365): Mapped note 80 to key 'd'
+2026-06-28 23:11:54,593 [INFO] (main.py:365): Mapped note 81 to key 'f'
+2026-06-28 23:11:54,773 [INFO] (main.py:365): Mapped note 82 to key 's'
+2026-06-28 23:11:54,869 [INFO] (main.py:365): Mapped note 83 to key 'a'
+2026-06-28 23:11:54,905 [INFO] (main.py:365): Mapped note 84 to key 'd'
+2026-06-28 23:11:54,914 [INFO] (mapper.py:25): Loaded 25 key mappings from virtual_piano.json
+2026-06-28 23:11:58,144 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:11:58,645 [INFO] (player.py:86): Releasing all active keys (count: 3)...
+2026-06-28 23:11:58,652 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:11:58,652 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:11:58,652 [INFO] (main.py:481): Application shut down cleanly.
+2026-06-28 23:11:58,653 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:12:52,143 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:12:52,143 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:12:52,144 [INFO] (mapper.py:25): Loaded 25 key mappings from virtual_piano.json
+2026-06-28 23:12:52,144 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:15:39,002 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:15:39,002 [INFO] (main.py:481): Application shut down cleanly.
+2026-06-28 23:15:43,160 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:15:43,160 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:15:43,160 [INFO] (mapper.py:25): Loaded 25 key mappings from virtual_piano.json
+2026-06-28 23:15:43,161 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:16:28,602 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-28 23:16:28,611 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:16:28,639 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-28 23:16:28,639 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-28 23:16:35,077 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:16:35,078 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:16:35,078 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:16:43,436 [ERROR] (player.py:75): Failed to press key 'shift_l': shift_l
+2026-06-28 23:16:46,865 [ERROR] (player.py:75): Failed to press key 'shift_l': shift_l
+2026-06-28 23:16:56,574 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:16:57,075 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-28 23:16:57,080 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:16:57,080 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:16:57,080 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:16:57,081 [INFO] (main.py:618): Application shut down cleanly.
+2026-06-28 23:19:44,437 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:19:44,437 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:19:44,437 [INFO] (mapper.py:25): Loaded 25 key mappings from virtual_piano.json
+2026-06-28 23:19:44,438 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:19:50,711 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-28 23:19:50,720 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:19:50,755 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-28 23:19:50,756 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-28 23:19:57,325 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:19:57,326 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:19:57,327 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:20:05,556 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:20:06,059 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-28 23:20:06,063 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:20:06,064 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:20:06,064 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:20:06,064 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-28 23:20:09,010 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:20:09,011 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:20:09,011 [INFO] (mapper.py:25): Loaded 25 key mappings from virtual_piano.json
+2026-06-28 23:20:09,012 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:20:42,674 [INFO] (main.py:477): Mapped note 36 to key '1'
+2026-06-28 23:20:49,441 [INFO] (main.py:477): Mapped note 37 to key '!'
+2026-06-28 23:20:58,455 [INFO] (main.py:477): Mapped note 38 to key '2'
+2026-06-28 23:21:04,452 [INFO] (main.py:477): Mapped note 39 to key '@'
+2026-06-28 23:21:08,741 [INFO] (main.py:477): Mapped note 40 to key '3'
+2026-06-28 23:21:09,234 [INFO] (main.py:477): Mapped note 41 to key '4'
+2026-06-28 23:21:11,132 [INFO] (main.py:477): Mapped note 42 to key '$'
+2026-06-28 23:21:13,708 [INFO] (main.py:477): Mapped note 43 to key '5'
+2026-06-28 23:21:14,200 [INFO] (main.py:477): Mapped note 44 to key '%'
+2026-06-28 23:21:17,111 [INFO] (main.py:477): Mapped note 45 to key '6'
+2026-06-28 23:21:17,630 [INFO] (main.py:477): Mapped note 46 to key '^'
+2026-06-28 23:21:19,873 [INFO] (main.py:477): Mapped note 47 to key '7'
+2026-06-28 23:21:20,039 [INFO] (main.py:477): Mapped note 48 to key '8'
+2026-06-28 23:21:20,587 [INFO] (main.py:477): Mapped note 49 to key '*'
+2026-06-28 23:21:27,591 [INFO] (main.py:477): Mapped note 50 to key '9'
+2026-06-28 23:21:28,664 [INFO] (main.py:477): Mapped note 51 to key '('
+2026-06-28 23:21:29,383 [INFO] (main.py:477): Mapped note 52 to key '0'
+2026-06-28 23:21:30,612 [INFO] (main.py:477): Mapped note 53 to key 'q'
+2026-06-28 23:21:31,431 [INFO] (main.py:477): Mapped note 54 to key 'Q'
+2026-06-28 23:21:32,963 [INFO] (main.py:477): Mapped note 55 to key 'w'
+2026-06-28 23:21:33,786 [INFO] (main.py:477): Mapped note 56 to key 'W'
+2026-06-28 23:21:36,742 [INFO] (main.py:477): Mapped note 57 to key 'e'
+2026-06-28 23:21:37,969 [INFO] (main.py:477): Mapped note 58 to key 'E'
+2026-06-28 23:21:39,830 [INFO] (main.py:477): Mapped note 59 to key 'r'
+2026-06-28 23:21:40,181 [INFO] (main.py:477): Mapped note 60 to key 't'
+2026-06-28 23:21:40,729 [INFO] (main.py:477): Mapped note 61 to key 'T'
+2026-06-28 23:21:41,618 [INFO] (main.py:477): Mapped note 62 to key 'y'
+2026-06-28 23:21:41,975 [INFO] (main.py:477): Mapped note 63 to key 'Y'
+2026-06-28 23:21:43,306 [INFO] (main.py:477): Mapped note 64 to key 'u'
+2026-06-28 23:21:44,119 [INFO] (main.py:477): Mapped note 65 to key 'i'
+2026-06-28 23:21:45,262 [INFO] (main.py:477): Mapped note 66 to key 'I'
+2026-06-28 23:21:45,735 [INFO] (main.py:477): Mapped note 67 to key 'o'
+2026-06-28 23:21:46,192 [INFO] (main.py:477): Mapped note 68 to key 'O'
+2026-06-28 23:21:48,701 [INFO] (main.py:477): Mapped note 69 to key 'p'
+2026-06-28 23:21:48,967 [INFO] (main.py:477): Mapped note 70 to key 'P'
+2026-06-28 23:21:50,723 [INFO] (main.py:477): Mapped note 71 to key 'a'
+2026-06-28 23:21:51,053 [INFO] (main.py:477): Mapped note 72 to key 's'
+2026-06-28 23:21:51,480 [INFO] (main.py:477): Mapped note 73 to key 'S'
+2026-06-28 23:21:52,189 [INFO] (main.py:477): Mapped note 74 to key 'd'
+2026-06-28 23:21:52,584 [INFO] (main.py:477): Mapped note 75 to key 'D'
+2026-06-28 23:21:53,314 [INFO] (main.py:477): Mapped note 76 to key 'f'
+2026-06-28 23:21:54,578 [INFO] (main.py:477): Mapped note 77 to key 'g'
+2026-06-28 23:21:55,089 [INFO] (main.py:477): Mapped note 78 to key 'G'
+2026-06-28 23:21:56,961 [INFO] (main.py:477): Mapped note 79 to key 'h'
+2026-06-28 23:21:57,257 [INFO] (main.py:477): Mapped note 80 to key 'H'
+2026-06-28 23:21:57,864 [INFO] (main.py:477): Mapped note 81 to key 'j'
+2026-06-28 23:21:58,214 [INFO] (main.py:477): Mapped note 82 to key 'J'
+2026-06-28 23:21:58,742 [INFO] (main.py:477): Mapped note 83 to key 'k'
+2026-06-28 23:22:00,217 [INFO] (main.py:477): Mapped note 84 to key 'I'
+2026-06-28 23:22:07,908 [INFO] (main.py:477): Mapped note 85 to key ''
+2026-06-28 23:22:26,773 [INFO] (main.py:477): Mapped note 86 to key 'z'
+2026-06-28 23:22:27,601 [INFO] (main.py:477): Mapped note 87 to key 'Z'
+2026-06-28 23:22:28,991 [INFO] (main.py:477): Mapped note 88 to key 'x'
+2026-06-28 23:22:29,300 [INFO] (main.py:477): Mapped note 89 to key 'c'
+2026-06-28 23:22:29,793 [INFO] (main.py:477): Mapped note 90 to key 'C'
+2026-06-28 23:22:30,573 [INFO] (main.py:477): Mapped note 91 to key 'v'
+2026-06-28 23:22:31,880 [INFO] (main.py:477): Mapped note 92 to key 'b'
+2026-06-28 23:22:32,117 [INFO] (main.py:477): Mapped note 93 to key 'B'
+2026-06-28 23:22:33,302 [INFO] (main.py:477): Mapped note 94 to key 'n'
+2026-06-28 23:22:33,619 [INFO] (main.py:477): Mapped note 95 to key 'm'
+2026-06-28 23:22:36,538 [INFO] (main.py:477): Mapped note 96 to key 'm'
+2026-06-28 23:22:36,547 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-28 23:22:41,539 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-28 23:22:41,549 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:22:41,579 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-28 23:22:41,580 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-28 23:22:47,434 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:22:47,435 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:22:47,436 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:23:32,120 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:23:32,621 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-28 23:23:32,897 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:23:32,897 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:23:56,176 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:23:56,176 [INFO] (scheduler.py:89): Transposition updated to: 1 semitones
+2026-06-28 23:23:57,392 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:23:57,392 [INFO] (scheduler.py:89): Transposition updated to: 2 semitones
+2026-06-28 23:23:57,560 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:23:57,560 [INFO] (scheduler.py:89): Transposition updated to: 3 semitones
+2026-06-28 23:23:57,713 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:23:57,713 [INFO] (scheduler.py:89): Transposition updated to: 4 semitones
+2026-06-28 23:24:00,864 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:24:00,864 [INFO] (scheduler.py:89): Transposition updated to: 3 semitones
+2026-06-28 23:24:01,040 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:24:01,040 [INFO] (scheduler.py:89): Transposition updated to: 2 semitones
+2026-06-28 23:24:01,216 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:24:01,216 [INFO] (scheduler.py:89): Transposition updated to: 1 semitones
+2026-06-28 23:24:01,537 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-28 23:24:01,537 [INFO] (scheduler.py:89): Transposition updated to: 0 semitones
+2026-06-28 23:24:04,778 [INFO] (mapper.py:25): Loaded 35 key mappings from virtual_piano.json
+2026-06-28 23:24:11,234 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-28 23:24:23,800 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:24:23,802 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:24:23,804 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:25:13,443 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:25:13,944 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-28 23:25:13,950 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:25:13,950 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:26:30,180 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-28 23:26:30,184 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-28 23:26:30,196 [INFO] (midi_reader.py:77): Extracted 838 note events from MIDI.
+2026-06-28 23:26:30,196 [INFO] (main.py:249): Song loaded: Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-28 23:26:43,056 [INFO] (scheduler.py:39): Starting playback. Note count: 838, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:26:43,057 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:26:43,058 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:27:56,807 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-28 23:27:56,808 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:27:56,808 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:33:23,163 [INFO] (scheduler.py:39): Starting playback. Note count: 838, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:33:23,164 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:33:23,165 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:34:28,297 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:34:28,799 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-28 23:34:28,800 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:34:28,800 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:34:28,800 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-28 23:34:28,800 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:44:34,478 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-28 23:44:34,478 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-28 23:44:34,479 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-28 23:44:34,479 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:44:42,743 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Fly-Me-To-The-Moon.mid
+2026-06-28 23:44:42,780 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:44:42,877 [INFO] (midi_reader.py:77): Extracted 6640 note events from MIDI.
+2026-06-28 23:44:42,878 [INFO] (main.py:249): Song loaded: Fly-Me-To-The-Moon.mid
+2026-06-28 23:44:48,519 [INFO] (scheduler.py:39): Starting playback. Note count: 6640, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:44:48,520 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:44:48,520 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:46:05,403 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:46:05,904 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-28 23:46:05,906 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:46:05,906 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:46:19,430 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Fly-Me-To-The-Moon.mid
+2026-06-28 23:46:19,461 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-28 23:46:19,558 [INFO] (midi_reader.py:77): Extracted 6640 note events from MIDI.
+2026-06-28 23:46:19,560 [INFO] (main.py:249): Song loaded: Fly-Me-To-The-Moon.mid
+2026-06-28 23:46:24,947 [INFO] (scheduler.py:39): Starting playback. Note count: 6640, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-28 23:46:24,947 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-28 23:46:24,947 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-28 23:47:13,304 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-28 23:47:13,805 [INFO] (player.py:115): Releasing all active keys (count: 6)...
+2026-06-28 23:47:13,809 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:47:13,809 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-28 23:49:32,727 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-28 23:49:32,727 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 00:38:44,427 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 00:38:44,433 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 00:38:44,439 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 00:38:44,440 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:38:52,571 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/The Piano/hope.mid
+2026-06-30 00:38:52,578 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 00:38:52,578 [INFO] (midi_reader.py:77): Extracted 48 note events from MIDI.
+2026-06-30 00:38:52,579 [INFO] (main.py:249): Song loaded: hope.mid
+2026-06-30 00:38:59,980 [INFO] (scheduler.py:39): Starting playback. Note count: 48, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:38:59,981 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:38:59,982 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:39:02,982 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:39:02,982 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:39:02,983 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:39:10,912 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:10,913 [INFO] (scheduler.py:83): Playback speed updated to: 0.90
+2026-06-30 00:39:10,960 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:10,960 [INFO] (scheduler.py:83): Playback speed updated to: 0.80
+2026-06-30 00:39:11,015 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:11,015 [INFO] (scheduler.py:83): Playback speed updated to: 0.70
+2026-06-30 00:39:11,047 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:11,047 [INFO] (scheduler.py:83): Playback speed updated to: 0.60
+2026-06-30 00:39:11,070 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:11,070 [INFO] (scheduler.py:83): Playback speed updated to: 0.50
+2026-06-30 00:39:11,266 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:11,266 [INFO] (scheduler.py:83): Playback speed updated to: 0.40
+2026-06-30 00:39:11,354 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:39:11,355 [INFO] (scheduler.py:83): Playback speed updated to: 0.30
+2026-06-30 00:39:19,576 [INFO] (scheduler.py:39): Starting playback. Note count: 48, Speed: 0.30, Transposition: 0, Humanize: False
+2026-06-30 00:39:19,579 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:39:19,580 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:39:29,581 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:39:29,582 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:39:29,582 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:42:55,623 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:42:55,623 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 00:43:32,520 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 00:43:32,525 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 00:43:32,530 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 00:43:32,531 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:43:35,945 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/The Piano/hope.mid
+2026-06-30 00:43:35,952 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 00:43:35,953 [INFO] (midi_reader.py:77): Extracted 44 note events from MIDI.
+2026-06-30 00:43:35,953 [INFO] (main.py:249): Song loaded: hope.mid
+2026-06-30 00:43:36,591 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:36,591 [INFO] (scheduler.py:83): Playback speed updated to: 0.40
+2026-06-30 00:43:37,526 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:37,526 [INFO] (scheduler.py:83): Playback speed updated to: 0.50
+2026-06-30 00:43:37,550 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:37,550 [INFO] (scheduler.py:83): Playback speed updated to: 0.60
+2026-06-30 00:43:37,582 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:37,582 [INFO] (scheduler.py:83): Playback speed updated to: 0.70
+2026-06-30 00:43:37,950 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:37,950 [INFO] (scheduler.py:83): Playback speed updated to: 0.80
+2026-06-30 00:43:38,006 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:38,006 [INFO] (scheduler.py:83): Playback speed updated to: 0.90
+2026-06-30 00:43:38,662 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 00:43:38,662 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-30 00:43:50,727 [INFO] (scheduler.py:39): Starting playback. Note count: 44, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:43:50,730 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:43:50,730 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:43:53,481 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:43:53,481 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:43:53,482 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:49:25,349 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:49:25,349 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 00:49:44,339 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 00:49:44,348 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 00:49:44,348 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 00:49:44,349 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:49:48,381 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:49:48,381 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 00:49:56,884 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 00:49:56,885 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 00:49:56,885 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 00:49:56,886 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:50:00,180 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/The Piano/hope.mid
+2026-06-30 00:50:00,186 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 00:50:00,187 [INFO] (midi_reader.py:77): Extracted 60 note events from MIDI.
+2026-06-30 00:50:00,188 [INFO] (main.py:249): Song loaded: hope.mid
+2026-06-30 00:50:17,725 [INFO] (scheduler.py:39): Starting playback. Note count: 60, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:50:17,727 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:50:17,728 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:50:21,478 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:50:21,478 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:50:21,479 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:55:37,305 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/yay.mid
+2026-06-30 00:55:37,306 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 00:55:37,307 [INFO] (midi_reader.py:77): Extracted 60 note events from MIDI.
+2026-06-30 00:55:37,308 [INFO] (main.py:249): Song loaded: yay.mid
+2026-06-30 00:55:45,134 [INFO] (scheduler.py:39): Starting playback. Note count: 60, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:55:45,139 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:55:45,140 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:55:50,696 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:55:50,696 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:55:50,697 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:55:59,474 [INFO] (scheduler.py:39): Starting playback. Note count: 60, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:55:59,475 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:55:59,475 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:56:04,509 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 00:56:05,011 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 00:56:05,012 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:56:05,012 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 00:58:31,568 [INFO] (scheduler.py:39): Starting playback. Note count: 60, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 00:58:31,571 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 00:58:31,571 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 00:58:37,127 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 00:58:37,128 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 00:58:37,128 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:02:10,477 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 01:02:10,639 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 01:02:11,131 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 01:02:11,138 [INFO] (main.py:249): Song loaded: Rush E.mid
+2026-06-30 01:02:16,865 [INFO] (scheduler.py:39): Starting playback. Note count: 40288, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:02:16,866 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:02:16,867 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:04:06,747 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 01:04:06,748 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:04:11,278 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:04:11,278 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 01:04:11,334 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:04:11,334 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 01:04:11,374 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:04:11,374 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 01:04:11,422 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:04:11,422 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-30 01:04:11,478 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:04:11,478 [INFO] (scheduler.py:83): Playback speed updated to: 1.50
+2026-06-30 01:04:23,966 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:05:09,804 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:05:10,304 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 01:05:10,306 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:05:10,306 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:05:11,329 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:05:11,330 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 01:14:44,764 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 01:14:44,771 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 01:14:44,772 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 01:14:44,772 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:14:51,055 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 01:14:51,220 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 01:14:51,750 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 01:14:51,755 [INFO] (main.py:249): Song loaded: Rush E.mid
+2026-06-30 01:14:53,998 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:14:53,998 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-30 01:15:00,078 [INFO] (scheduler.py:39): Starting playback. Note count: 40288, Speed: 1.40, Transposition: 0, Humanize: False
+2026-06-30 01:15:00,079 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:15:00,079 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:16:25,873 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-30 01:16:25,875 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:16:44,718 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:18:51,398 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:18:51,398 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 01:18:51,400 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:18:51,400 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:19:18,867 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-30 01:19:18,886 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 01:19:18,916 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-30 01:19:18,917 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-30 01:19:24,787 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.40, Transposition: 0, Humanize: False
+2026-06-30 01:19:24,788 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:19:24,789 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:19:33,999 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:19:34,500 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 01:19:34,503 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:19:34,503 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:19:34,503 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:19:34,503 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 01:19:39,735 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 01:19:39,743 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 01:19:39,743 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 01:19:39,744 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:19:44,727 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:19:44,727 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 01:19:44,774 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:19:44,774 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 01:19:45,118 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:19:45,118 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 01:19:45,166 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:19:45,166 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-30 01:19:49,602 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-30 01:19:49,612 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 01:19:49,643 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-30 01:19:49,643 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-30 01:20:49,495 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:20:49,496 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:20:49,496 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:21:50,934 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 01:21:50,938 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:23:02,102 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-30 01:23:02,112 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 01:23:02,124 [INFO] (midi_reader.py:77): Extracted 838 note events from MIDI.
+2026-06-30 01:23:02,124 [INFO] (main.py:249): Song loaded: Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-30 01:23:17,518 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:23:23,454 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:23:23,954 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 01:23:23,959 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:23:23,959 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:23:30,010 [INFO] (scheduler.py:39): Starting playback. Note count: 838, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:23:30,011 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:23:30,011 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:23:57,928 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:23:58,430 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:23:58,430 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:25:22,363 [INFO] (scheduler.py:39): Starting playback. Note count: 838, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:25:22,364 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:25:22,364 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:26:36,114 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:26:36,114 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:26:36,114 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:27:16,165 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 01:27:16,333 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 01:27:16,881 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 01:27:16,886 [INFO] (main.py:249): Song loaded: Rush E.mid
+2026-06-30 01:27:21,897 [INFO] (scheduler.py:39): Starting playback. Note count: 40288, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:27:21,898 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:27:21,898 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:27:56,385 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:27:59,151 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:27:59,151 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 01:27:59,222 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:27:59,222 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 01:27:59,367 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:27:59,367 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 01:28:05,454 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:29:18,781 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 01:29:18,783 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:29:34,807 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:31:43,873 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:31:43,874 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 01:31:43,876 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:31:43,876 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:35:03,493 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Telephones.mid
+2026-06-30 01:35:03,496 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 01:35:03,505 [INFO] (midi_reader.py:77): Extracted 690 note events from MIDI.
+2026-06-30 01:35:03,506 [INFO] (main.py:249): Song loaded: Telephones.mid
+2026-06-30 01:35:09,108 [INFO] (scheduler.py:39): Starting playback. Note count: 690, Speed: 1.30, Transposition: 0, Humanize: False
+2026-06-30 01:35:09,109 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:35:09,109 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:35:30,742 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:35:33,638 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:35:33,639 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 01:35:33,758 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:35:33,759 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 01:35:34,246 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 01:35:34,247 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-30 01:35:36,198 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:36:48,198 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:36:48,198 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:36:48,198 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:40:01,555 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Yot Club - YKWIM_.mid
+2026-06-30 01:40:01,558 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 6, Ticks per beat: 384
+2026-06-30 01:40:01,564 [INFO] (midi_reader.py:77): Extracted 460 note events from MIDI.
+2026-06-30 01:40:01,565 [INFO] (main.py:249): Song loaded: Yot Club - YKWIM_.mid
+2026-06-30 01:40:07,433 [INFO] (scheduler.py:39): Starting playback. Note count: 460, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:40:07,434 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:40:07,434 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:40:29,834 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 01:40:29,835 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 01:41:43,899 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/A R Rahman — Jo Bhi Main [MIDIfind.com].mid
+2026-06-30 01:41:43,902 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 01:41:43,906 [INFO] (midi_reader.py:77): Extracted 308 note events from MIDI.
+2026-06-30 01:41:43,907 [INFO] (main.py:249): Song loaded: A R Rahman — Jo Bhi Main [MIDIfind.com].mid
+2026-06-30 01:41:46,479 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 01:41:47,329 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:41:47,329 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:41:47,330 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:41:59,266 [INFO] (scheduler.py:39): Starting playback. Note count: 308, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:41:59,267 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:41:59,267 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:42:50,704 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:42:51,205 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 01:42:52,214 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:42:52,214 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:45:15,993 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 01:45:16,030 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 01:45:16,149 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 01:45:16,151 [INFO] (main.py:249): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 01:45:22,906 [INFO] (scheduler.py:39): Starting playback. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:45:22,907 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:45:22,907 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:47:37,601 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 01:47:38,102 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 01:47:38,103 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:47:38,104 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 01:48:25,258 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:48:25,258 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 01:56:00,824 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 01:56:00,831 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 01:56:00,831 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 01:56:00,832 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:56:04,586 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 01:56:04,626 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 01:56:04,748 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 01:56:04,750 [INFO] (main.py:249): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 01:56:11,226 [INFO] (scheduler.py:39): Starting playback. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 01:56:11,226 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 01:56:11,227 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 01:58:48,622 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 01:58:48,622 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 01:58:48,623 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 02:02:11,595 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:02:11,595 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 02:03:39,699 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 02:03:39,700 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 02:03:39,700 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 02:03:39,701 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 02:03:43,071 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Elliot James Reay - I Think They Call This Love.mid
+2026-06-30 02:03:43,080 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 02:03:43,111 [INFO] (midi_reader.py:77): Extracted 2108 note events from MIDI.
+2026-06-30 02:03:43,111 [INFO] (main.py:249): Song loaded: Elliot James Reay - I Think They Call This Love.mid
+2026-06-30 02:03:48,951 [INFO] (scheduler.py:39): Starting playback. Note count: 2108, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 02:03:48,951 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 02:03:48,952 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 02:05:34,608 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-30 02:05:34,610 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 02:05:43,727 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 02:07:05,448 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 02:07:05,448 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:07:05,449 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 02:17:36,928 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:17:36,929 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 02:20:30,321 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 02:20:30,322 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 02:20:30,322 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 02:20:30,323 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 02:20:34,430 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Serial Experiments Lain - Duvet.mid
+2026-06-30 02:20:34,437 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 02:20:34,460 [INFO] (midi_reader.py:77): Extracted 1714 note events from MIDI.
+2026-06-30 02:20:34,460 [INFO] (main.py:249): Song loaded: Serial Experiments Lain - Duvet.mid
+2026-06-30 02:20:40,176 [INFO] (scheduler.py:39): Starting playback. Note count: 1714, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 02:20:40,176 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 02:20:40,177 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 02:22:27,275 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 02:22:27,275 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:22:27,275 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 02:23:30,556 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 02:23:30,596 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 02:23:30,725 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 02:23:30,726 [INFO] (main.py:249): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 02:23:36,019 [INFO] (scheduler.py:39): Starting playback. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 02:23:36,020 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 02:23:36,020 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 02:26:13,416 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 02:26:13,416 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:26:13,417 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 02:28:18,589 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 02:28:18,590 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 02:29:57,768 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 02:29:57,768 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 02:29:57,769 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 02:29:57,769 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:15:52,060 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 11:15:52,066 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 11:15:52,071 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 11:15:52,072 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:17:47,039 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/marriedlife.mid
+2026-06-30 11:17:47,047 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 11:17:47,069 [INFO] (midi_reader.py:77): Extracted 1620 note events from MIDI.
+2026-06-30 11:17:47,069 [INFO] (main.py:249): Song loaded: marriedlife.mid
+2026-06-30 11:17:54,776 [INFO] (scheduler.py:39): Starting playback. Note count: 1620, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:17:54,777 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:17:54,777 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:18:24,422 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-30 11:18:24,424 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 11:18:34,168 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 11:18:52,651 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 11:18:52,654 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 11:19:10,816 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 11:19:54,777 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 11:19:54,780 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 11:20:35,296 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 11:20:35,796 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:20:35,796 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 11:23:30,209 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:23:30,210 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 11:39:00,126 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 11:39:00,131 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 11:39:00,137 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 11:39:00,137 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:39:03,274 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/marriedlife.mid
+2026-06-30 11:39:03,287 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 11:39:03,309 [INFO] (midi_reader.py:77): Extracted 1620 note events from MIDI.
+2026-06-30 11:39:03,310 [INFO] (main.py:249): Song loaded: marriedlife.mid
+2026-06-30 11:39:08,984 [INFO] (scheduler.py:39): Starting playback. Note count: 1620, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:39:08,984 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:39:08,985 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:39:46,067 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 11:39:46,069 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 11:39:52,238 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 11:41:59,447 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 11:41:59,448 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:41:59,448 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 11:43:03,212 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:43:03,212 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 11:43:34,324 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 11:43:34,325 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 11:43:34,325 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 11:43:34,326 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:43:40,617 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 11:43:40,664 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 11:43:40,785 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 11:43:40,786 [INFO] (main.py:249): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 11:43:46,606 [INFO] (scheduler.py:39): Starting playback. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:43:46,607 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:43:46,607 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:46:24,003 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 11:46:24,003 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:46:24,003 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 11:47:41,403 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:47:41,404 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 11:49:24,418 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 11:49:24,418 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 11:49:24,419 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 11:49:24,419 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:49:29,320 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Yot Club - YKWIM_.mid
+2026-06-30 11:49:29,328 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 6, Ticks per beat: 384
+2026-06-30 11:49:29,334 [INFO] (midi_reader.py:77): Extracted 460 note events from MIDI.
+2026-06-30 11:49:29,335 [INFO] (main.py:249): Song loaded: Yot Club - YKWIM_.mid
+2026-06-30 11:49:39,040 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Serial Experiments Lain - Duvet.mid
+2026-06-30 11:49:39,056 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 11:49:39,081 [INFO] (midi_reader.py:77): Extracted 1714 note events from MIDI.
+2026-06-30 11:49:39,081 [INFO] (main.py:249): Song loaded: Serial Experiments Lain - Duvet.mid
+2026-06-30 11:49:44,736 [INFO] (scheduler.py:39): Starting playback. Note count: 1714, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:49:44,737 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:49:44,737 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:51:31,836 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 11:51:31,836 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:51:31,836 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 11:52:12,226 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:52:12,226 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 11:53:37,107 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 11:53:37,108 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 11:53:37,108 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 11:53:37,109 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:53:41,648 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/l'amore dice ciao midi.mid
+2026-06-30 11:53:41,659 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 11:53:41,691 [INFO] (midi_reader.py:77): Extracted 2474 note events from MIDI.
+2026-06-30 11:53:41,692 [INFO] (main.py:249): Song loaded: l'amore dice ciao midi.mid
+2026-06-30 11:53:49,592 [INFO] (scheduler.py:39): Starting playback. Note count: 2474, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:53:49,593 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:53:49,593 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 11:56:47,407 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 11:56:47,410 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 11:59:30,071 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Elliot James Reay - I Think They Call This Love.mid
+2026-06-30 11:59:30,087 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 11:59:30,115 [INFO] (midi_reader.py:77): Extracted 2108 note events from MIDI.
+2026-06-30 11:59:30,116 [INFO] (main.py:249): Song loaded: Elliot James Reay - I Think They Call This Love.mid
+2026-06-30 11:59:30,685 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 11:59:37,565 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 11:59:37,565 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 11:59:37,565 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 11:59:45,177 [INFO] (scheduler.py:39): Starting playback. Note count: 2108, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 11:59:45,177 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 11:59:45,177 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:00:45,843 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 12:00:45,845 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:03:41,164 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Jojo theme.mid.mid
+2026-06-30 12:03:41,187 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 12:03:41,257 [INFO] (midi_reader.py:77): Extracted 5300 note events from MIDI.
+2026-06-30 12:03:41,258 [INFO] (main.py:249): Song loaded: Jojo theme.mid.mid
+2026-06-30 12:03:43,213 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:03:43,213 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 12:03:43,277 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:03:43,277 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 12:03:44,245 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:03:44,245 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 12:03:45,709 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:03:53,463 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 12:03:53,463 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:03:55,237 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:03:55,738 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:03:55,738 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:03:56,977 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Jojo theme.mid.mid
+2026-06-30 12:03:56,998 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 12:03:57,065 [INFO] (midi_reader.py:77): Extracted 5300 note events from MIDI.
+2026-06-30 12:03:57,066 [INFO] (main.py:249): Song loaded: Jojo theme.mid.mid
+2026-06-30 12:04:03,192 [INFO] (scheduler.py:39): Starting playback. Note count: 5300, Speed: 1.10, Transposition: 0, Humanize: False
+2026-06-30 12:04:03,193 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:04:03,194 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:08:09,541 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 12:08:09,541 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:08:09,541 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:10:46,165 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:10:46,165 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 12:16:49,207 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 12:16:49,215 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 12:16:49,215 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 12:16:49,216 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:16:56,290 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 12:16:56,455 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 12:16:56,961 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 12:16:56,967 [INFO] (main.py:249): Song loaded: Rush E.mid
+2026-06-30 12:16:59,364 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:16:59,364 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 12:16:59,388 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:16:59,388 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 12:17:05,716 [INFO] (scheduler.py:39): Starting playback. Note count: 40288, Speed: 1.30, Transposition: 0, Humanize: False
+2026-06-30 12:17:05,716 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:17:05,717 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:17:56,931 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:18:17,835 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:18:18,336 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:18:18,336 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:18:18,336 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:18:18,336 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 12:24:03,407 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 12:24:03,415 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 12:24:03,415 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 12:24:03,416 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:28:09,320 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-30 12:28:09,338 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 12:28:09,368 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-30 12:28:09,368 [INFO] (main.py:249): Song loaded: Mrs Magic.mid
+2026-06-30 12:28:10,411 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:28:10,412 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 12:28:10,643 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:28:10,643 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 12:28:11,059 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:28:11,059 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-30 12:28:17,876 [INFO] (scheduler.py:39): Starting playback. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 12:28:17,876 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:28:17,877 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:28:58,632 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-30 12:28:58,634 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:29:13,883 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:30:51,599 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 12:30:51,601 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:30:58,827 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:31:52,619 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 12:31:52,620 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:31:52,620 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:34:13,430 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Queen - Bohemian Rhapsody.mid.mid
+2026-06-30 12:34:13,447 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 12:34:13,496 [INFO] (midi_reader.py:77): Extracted 3874 note events from MIDI.
+2026-06-30 12:34:13,497 [INFO] (main.py:249): Song loaded: Queen - Bohemian Rhapsody.mid.mid
+2026-06-30 12:34:19,366 [INFO] (scheduler.py:39): Starting playback. Note count: 3874, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 12:34:19,367 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:34:19,367 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:34:43,069 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 12:34:43,072 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:34:56,627 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:38:40,308 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 12:38:40,311 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:38:59,133 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 12:38:59,291 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 12:38:59,826 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 12:38:59,830 [INFO] (main.py:249): Song loaded: Rush E.mid
+2026-06-30 12:39:00,530 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:39:01,031 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:39:01,031 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:39:03,163 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:39:03,163 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 12:39:03,267 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:39:03,267 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 12:39:03,595 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:39:03,595 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 12:39:21,190 [INFO] (scheduler.py:39): Starting playback. Note count: 40288, Speed: 1.30, Transposition: 0, Humanize: False
+2026-06-30 12:39:21,191 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:39:21,191 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:40:55,306 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 12:40:55,308 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:41:05,394 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:41:05,395 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-30 12:41:05,410 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:41:05,411 [INFO] (scheduler.py:83): Playback speed updated to: 1.50
+2026-06-30 12:41:05,443 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:41:05,443 [INFO] (scheduler.py:83): Playback speed updated to: 1.60
+2026-06-30 12:41:06,874 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:41:06,875 [INFO] (scheduler.py:83): Playback speed updated to: 1.50
+2026-06-30 12:41:07,850 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:43:04,521 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 12:43:04,521 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 12:43:04,523 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:43:04,523 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:43:38,015 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:43:38,015 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 12:44:33,596 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 12:44:33,602 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 12:44:33,603 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 12:44:33,603 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:44:35,442 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:44:35,444 [INFO] (scheduler.py:83): Playback speed updated to: 1.40
+2026-06-30 12:44:35,466 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:44:35,466 [INFO] (scheduler.py:83): Playback speed updated to: 1.30
+2026-06-30 12:44:35,522 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:44:35,522 [INFO] (scheduler.py:83): Playback speed updated to: 1.20
+2026-06-30 12:44:35,546 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:44:35,546 [INFO] (scheduler.py:83): Playback speed updated to: 1.10
+2026-06-30 12:44:35,570 [INFO] (config.py:45): Configuration successfully saved to config.json
+2026-06-30 12:44:35,570 [INFO] (scheduler.py:83): Playback speed updated to: 1.00
+2026-06-30 12:44:46,570 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Telephones.mid
+2026-06-30 12:44:46,581 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 12:44:46,592 [INFO] (midi_reader.py:77): Extracted 690 note events from MIDI.
+2026-06-30 12:44:46,592 [INFO] (main.py:249): Song loaded: Telephones.mid
+2026-06-30 12:44:52,667 [INFO] (scheduler.py:39): Starting playback. Note count: 690, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 12:44:52,668 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:44:52,668 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:45:11,098 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:45:11,599 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 12:45:11,601 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:45:11,601 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:45:55,087 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/A R Rahman — Jo Bhi Main [MIDIfind.com].mid
+2026-06-30 12:45:55,095 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 12:45:55,100 [INFO] (midi_reader.py:77): Extracted 308 note events from MIDI.
+2026-06-30 12:45:55,100 [INFO] (main.py:249): Song loaded: A R Rahman — Jo Bhi Main [MIDIfind.com].mid
+2026-06-30 12:46:01,821 [INFO] (scheduler.py:39): Starting playback. Note count: 308, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 12:46:01,822 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:46:01,822 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:46:32,052 [INFO] (scheduler.py:52): Playback paused.
+2026-06-30 12:47:29,202 [INFO] (scheduler.py:61): Playback resumed.
+2026-06-30 12:47:32,826 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:47:33,327 [INFO] (player.py:115): Releasing all active keys (count: 6)...
+2026-06-30 12:47:36,271 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:47:36,271 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:47:39,221 [INFO] (scheduler.py:39): Starting playback. Note count: 308, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 12:47:39,222 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 12:47:39,222 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 12:48:19,258 [INFO] (scheduler.py:70): Playback stopped.
+2026-06-30 12:48:19,760 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 12:48:21,581 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:48:21,581 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 12:49:11,602 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 12:49:11,602 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 13:10:53,757 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 13:10:53,759 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 13:10:53,759 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 13:10:53,760 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 13:10:57,008 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/mrsmagic.mid
+2026-06-30 13:10:57,009 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 13:10:57,011 [INFO] (midi_reader.py:77): Extracted 148 note events from MIDI.
+2026-06-30 13:10:57,011 [INFO] (main.py:249): Song loaded: mrsmagic.mid
+2026-06-30 13:11:06,242 [INFO] (scheduler.py:39): Starting playback. Note count: 148, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 13:11:06,242 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 13:11:06,242 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 13:11:23,635 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 13:11:23,635 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 13:11:23,636 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 13:11:30,036 [INFO] (scheduler.py:39): Starting playback. Note count: 148, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 13:11:30,037 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 13:11:30,037 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 13:11:47,428 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 13:11:47,428 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 13:11:47,428 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 13:12:06,988 [INFO] (scheduler.py:39): Starting playback. Note count: 148, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 13:12:06,988 [INFO] (scheduler.py:105): Playback thread loop running.
+2026-06-30 13:12:06,989 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 13:12:24,380 [INFO] (scheduler.py:119): All events played. Stopping playback.
+2026-06-30 13:12:24,380 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 13:12:24,380 [INFO] (scheduler.py:210): Playback thread loop ended.
+2026-06-30 13:14:40,201 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 13:14:40,201 [INFO] (main.py:622): Application shut down cleanly.
+2026-06-30 13:24:05,138 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 13:24:05,138 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 13:24:05,138 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 13:24:05,139 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:00:37,592 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 14:00:37,593 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 14:00:37,593 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 14:00:37,594 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:00:50,203 [INFO] (main.py:499): Mapped note 36 to key '1'
+2026-06-30 14:00:50,524 [INFO] (main.py:499): Mapped note 37 to key '2'
+2026-06-30 14:00:54,416 [INFO] (main.py:499): Mapped note 38 to key '3'
+2026-06-30 14:00:54,680 [INFO] (main.py:499): Mapped note 39 to key '4'
+2026-06-30 14:00:55,173 [INFO] (main.py:499): Mapped note 40 to key '5'
+2026-06-30 14:00:55,653 [INFO] (main.py:499): Mapped note 41 to key '6'
+2026-06-30 14:00:56,107 [INFO] (main.py:499): Mapped note 42 to key '7'
+2026-06-30 14:00:58,024 [INFO] (main.py:499): Mapped note 43 to key '8'
+2026-06-30 14:00:58,790 [INFO] (main.py:499): Mapped note 44 to key '9'
+2026-06-30 14:01:01,567 [INFO] (main.py:499): Mapped note 45 to key '0'
+2026-06-30 14:01:46,662 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 14:01:46,663 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 14:01:46,663 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 14:01:46,664 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:01:54,339 [INFO] (main.py:499): Mapped note 36 to key '1'
+2026-06-30 14:01:54,564 [INFO] (main.py:499): Mapped note 37 to key '!'
+2026-06-30 14:01:57,415 [INFO] (main.py:499): Mapped note 38 to key '2'
+2026-06-30 14:01:58,173 [INFO] (main.py:499): Mapped note 39 to key '@'
+2026-06-30 14:02:01,307 [INFO] (main.py:499): Mapped note 40 to key '3'
+2026-06-30 14:02:01,430 [INFO] (main.py:499): Mapped note 41 to key '4'
+2026-06-30 14:02:02,639 [INFO] (main.py:499): Mapped note 42 to key '$'
+2026-06-30 14:02:03,527 [INFO] (main.py:499): Mapped note 43 to key '5'
+2026-06-30 14:02:12,549 [INFO] (main.py:499): Mapped note 44 to key '%'
+2026-06-30 14:02:13,749 [INFO] (main.py:499): Mapped note 45 to key '6'
+2026-06-30 14:02:14,013 [INFO] (main.py:499): Mapped note 46 to key '^'
+2026-06-30 14:02:16,025 [INFO] (main.py:499): Mapped note 47 to key '7'
+2026-06-30 14:02:16,498 [INFO] (main.py:499): Mapped note 48 to key '8'
+2026-06-30 14:02:16,894 [INFO] (main.py:499): Mapped note 49 to key '*'
+2026-06-30 14:02:18,273 [INFO] (main.py:499): Mapped note 50 to key '9'
+2026-06-30 14:02:18,585 [INFO] (main.py:499): Mapped note 51 to key '('
+2026-06-30 14:02:22,064 [INFO] (main.py:499): Mapped note 52 to key '0'
+2026-06-30 14:02:23,169 [INFO] (main.py:499): Mapped note 53 to key 'q'
+2026-06-30 14:02:23,563 [INFO] (main.py:499): Mapped note 54 to key 'Q'
+2026-06-30 14:02:25,141 [INFO] (main.py:499): Mapped note 55 to key 'w'
+2026-06-30 14:02:25,481 [INFO] (main.py:499): Mapped note 56 to key 'W'
+2026-06-30 14:02:27,229 [INFO] (main.py:499): Mapped note 57 to key 'e'
+2026-06-30 14:02:27,578 [INFO] (main.py:499): Mapped note 58 to key 'E'
+2026-06-30 14:02:29,866 [INFO] (main.py:499): Mapped note 59 to key 'r'
+2026-06-30 14:02:31,151 [INFO] (main.py:499): Mapped note 60 to key 't'
+2026-06-30 14:02:32,197 [INFO] (main.py:499): Mapped note 61 to key 'T'
+2026-06-30 14:02:33,974 [INFO] (main.py:499): Mapped note 62 to key 'y'
+2026-06-30 14:02:35,967 [INFO] (main.py:499): Mapped note 63 to key 'Y'
+2026-06-30 14:02:37,667 [INFO] (main.py:499): Mapped note 64 to key 'u'
+2026-06-30 14:02:37,941 [INFO] (main.py:499): Mapped note 65 to key 'i'
+2026-06-30 14:02:38,187 [INFO] (main.py:499): Mapped note 66 to key 'I'
+2026-06-30 14:02:39,491 [INFO] (main.py:499): Mapped note 67 to key 'o'
+2026-06-30 14:02:39,679 [INFO] (main.py:499): Mapped note 68 to key 'O'
+2026-06-30 14:02:40,567 [INFO] (main.py:499): Mapped note 69 to key 'p'
+2026-06-30 14:02:40,926 [INFO] (main.py:499): Mapped note 70 to key 'P'
+2026-06-30 14:02:43,232 [INFO] (main.py:499): Mapped note 71 to key 'a'
+2026-06-30 14:02:43,638 [INFO] (main.py:499): Mapped note 72 to key 's'
+2026-06-30 14:02:44,544 [INFO] (main.py:499): Mapped note 73 to key 'S'
+2026-06-30 14:02:47,879 [INFO] (main.py:499): Mapped note 74 to key 'd'
+2026-06-30 14:02:48,153 [INFO] (main.py:499): Mapped note 75 to key 'D'
+2026-06-30 14:02:48,474 [INFO] (main.py:499): Mapped note 76 to key 'f'
+2026-06-30 14:02:50,297 [INFO] (main.py:499): Mapped note 77 to key 'g'
+2026-06-30 14:02:50,571 [INFO] (main.py:499): Mapped note 78 to key 'G'
+2026-06-30 14:02:51,204 [INFO] (main.py:499): Mapped note 79 to key 'h'
+2026-06-30 14:02:51,773 [INFO] (main.py:499): Mapped note 80 to key 'H'
+2026-06-30 14:02:58,686 [INFO] (main.py:499): Mapped note 81 to key 'j'
+2026-06-30 14:03:01,161 [INFO] (main.py:499): Mapped note 82 to key 'J'
+2026-06-30 14:03:02,398 [INFO] (main.py:499): Mapped note 83 to key 'k'
+2026-06-30 14:03:03,041 [INFO] (main.py:499): Mapped note 84 to key 'l'
+2026-06-30 14:03:03,324 [INFO] (main.py:499): Mapped note 85 to key 'L'
+2026-06-30 14:03:05,223 [INFO] (main.py:499): Mapped note 86 to key 'z'
+2026-06-30 14:03:05,544 [INFO] (main.py:499): Mapped note 87 to key 'Z'
+2026-06-30 14:03:07,377 [INFO] (main.py:499): Mapped note 88 to key 'x'
+2026-06-30 14:03:08,397 [INFO] (main.py:499): Mapped note 89 to key 'c'
+2026-06-30 14:03:08,690 [INFO] (main.py:499): Mapped note 90 to key 'C'
+2026-06-30 14:03:09,417 [INFO] (main.py:499): Mapped note 91 to key 'v'
+2026-06-30 14:03:09,776 [INFO] (main.py:499): Mapped note 92 to key 'V'
+2026-06-30 14:03:11,647 [INFO] (main.py:499): Mapped note 93 to key 'b'
+2026-06-30 14:03:11,845 [INFO] (main.py:499): Mapped note 94 to key 'B'
+2026-06-30 14:03:12,714 [INFO] (main.py:499): Mapped note 95 to key 'n'
+2026-06-30 14:03:13,753 [INFO] (main.py:499): Mapped note 96 to key 'm'
+2026-06-30 14:03:13,759 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 14:03:22,399 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/C418 - Sweden.mid
+2026-06-30 14:03:22,402 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 14:03:22,408 [INFO] (midi_reader.py:77): Extracted 486 note events from MIDI.
+2026-06-30 14:03:22,409 [INFO] (main.py:253): Song loaded: C418 - Sweden.mid
+2026-06-30 14:03:51,990 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 486, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:03:51,990 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:03:51,991 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:05:44,941 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 14:05:44,942 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:05:44,942 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:07:34,680 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Aria Math - C418 (Modified MIDI Import) [4_10_2020].mid
+2026-06-30 14:07:34,703 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 4, Ticks per beat: 384
+2026-06-30 14:07:34,768 [INFO] (midi_reader.py:77): Extracted 5244 note events from MIDI.
+2026-06-30 14:07:34,769 [INFO] (main.py:253): Song loaded: Aria Math - C418 (Modified MIDI Import) [4_10_2020].mid
+2026-06-30 14:07:40,242 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5244, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:07:40,243 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:07:40,243 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:08:51,307 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 14:08:51,308 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:09:00,380 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:09:40,020 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 14:09:40,021 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:09:56,756 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:12:45,369 [INFO] (player.py:115): Releasing all active keys (count: 3)...
+2026-06-30 14:12:45,371 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:14:01,083 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 14:14:01,584 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:14:01,584 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:16:36,008 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5244, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:16:36,009 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:16:36,009 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:16:48,703 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 14:16:48,704 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:16:52,784 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 14:16:53,284 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:16:53,284 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:19:01,385 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5244, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:19:01,385 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:19:01,386 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:19:40,234 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 14:19:40,735 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 14:19:40,736 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:19:40,737 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:24:55,071 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5244, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:24:55,072 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:24:55,072 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:25:35,829 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 14:25:35,830 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:25:44,468 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:26:30,071 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 14:26:30,072 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:26:32,771 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:27:33,222 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 14:27:33,224 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:29:45,461 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/marriedlife.mid
+2026-06-30 14:29:45,468 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 14:29:45,490 [INFO] (midi_reader.py:77): Extracted 1620 note events from MIDI.
+2026-06-30 14:29:45,490 [INFO] (main.py:253): Song loaded: marriedlife.mid
+2026-06-30 14:29:46,627 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 14:29:47,128 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:29:47,128 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:29:52,623 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 1620, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 14:29:52,624 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 14:29:52,624 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 14:30:03,346 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 14:30:03,349 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:30:13,091 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:31:06,618 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 14:31:06,621 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:31:24,732 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:32:02,815 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 14:32:02,819 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:32:14,795 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:32:34,914 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 14:32:34,917 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:32:39,227 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 14:32:56,840 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 14:32:56,842 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 14:33:55,829 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 14:33:56,331 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:33:56,331 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 14:33:56,331 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 14:33:56,331 [INFO] (main.py:687): Application shut down cleanly.
+2026-06-30 15:52:06,081 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 15:52:06,081 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 15:52:06,081 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 15:52:06,082 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 15:52:08,909 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 15:52:08,909 [INFO] (main.py:687): Application shut down cleanly.
+2026-06-30 15:53:27,885 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 15:53:27,885 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 15:53:27,886 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 15:53:27,886 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 15:53:29,897 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 15:53:29,897 [INFO] (main.py:687): Application shut down cleanly.
+2026-06-30 15:53:58,192 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 15:53:58,192 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 15:53:58,193 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 15:53:58,193 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 15:54:10,086 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Queen - Bohemian Rhapsody.mid.mid
+2026-06-30 15:54:10,101 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 15:54:10,150 [INFO] (midi_reader.py:77): Extracted 3874 note events from MIDI.
+2026-06-30 15:54:10,150 [INFO] (main.py:253): Song loaded: Queen - Bohemian Rhapsody.mid.mid
+2026-06-30 15:54:16,391 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 3874, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 15:54:16,393 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 15:54:16,394 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 15:54:26,564 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 15:54:27,065 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 15:54:27,075 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 15:54:27,076 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 15:56:25,145 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 15:56:25,145 [INFO] (main.py:687): Application shut down cleanly.
+2026-06-30 15:58:15,537 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 15:58:15,537 [INFO] (config.py:33): Configuration loaded from config.json
+2026-06-30 15:58:15,538 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 15:58:15,538 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 15:58:23,455 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 15:58:23,455 [INFO] (main.py:719): Application shut down cleanly.
+2026-06-30 16:04:26,204 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 16:04:26,204 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 16:04:26,205 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 16:04:26,205 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:04:29,680 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/l'amore dice ciao midi.mid
+2026-06-30 16:04:29,693 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 16:04:29,728 [INFO] (midi_reader.py:77): Extracted 2474 note events from MIDI.
+2026-06-30 16:04:29,729 [INFO] (main.py:281): Song loaded: l'amore dice ciao midi.mid
+2026-06-30 16:04:35,211 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 2474, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 16:04:35,211 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:04:35,211 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:04:52,235 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:04:52,235 [INFO] (scheduler.py:93): Playback speed updated to: 0.90
+2026-06-30 16:04:55,475 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:04:55,475 [INFO] (scheduler.py:93): Playback speed updated to: 0.80
+2026-06-30 16:04:55,627 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:04:55,627 [INFO] (scheduler.py:93): Playback speed updated to: 0.70
+2026-06-30 16:04:55,779 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:04:55,779 [INFO] (scheduler.py:93): Playback speed updated to: 0.60
+2026-06-30 16:05:00,515 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:00,515 [INFO] (scheduler.py:93): Playback speed updated to: 0.70
+2026-06-30 16:05:00,682 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:00,683 [INFO] (scheduler.py:93): Playback speed updated to: 0.80
+2026-06-30 16:05:00,827 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:00,827 [INFO] (scheduler.py:93): Playback speed updated to: 0.90
+2026-06-30 16:05:00,995 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:00,995 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 16:05:01,147 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:01,147 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 16:05:01,299 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:01,299 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 16:05:01,627 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:01,627 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 16:05:01,834 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:01,835 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 16:05:11,042 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:11,043 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 16:05:11,203 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:11,203 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 16:05:11,363 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:11,363 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 16:05:11,523 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:05:11,523 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 16:05:15,874 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 16:05:16,374 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 16:05:16,375 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:05:16,375 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 16:05:20,802 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:05:20,802 [INFO] (main.py:754): Application shut down cleanly.
+2026-06-30 16:07:34,534 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 16:07:34,541 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 16:07:34,542 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 16:07:34,542 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:07:40,680 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/marriedlife.mid
+2026-06-30 16:07:40,688 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 16:07:40,711 [INFO] (midi_reader.py:77): Extracted 1620 note events from MIDI.
+2026-06-30 16:07:40,711 [INFO] (main.py:281): Song loaded: marriedlife.mid
+2026-06-30 16:08:16,002 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:08:16,162 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:08:16,314 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:08:18,945 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 1620, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 16:08:18,946 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:08:18,946 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:08:44,667 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 16:08:45,167 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 16:08:45,169 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:08:45,169 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 16:28:38,035 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 1620, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 16:28:38,035 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:28:38,035 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:29:20,763 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 16:29:21,264 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 16:29:21,266 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:29:21,266 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 16:43:26,867 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 16:43:27,037 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 16:43:27,578 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 16:43:27,583 [INFO] (main.py:281): Song loaded: Rush E.mid
+2026-06-30 16:43:34,952 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:34,952 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 16:43:35,024 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:35,024 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 16:43:35,080 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:35,080 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 16:43:35,096 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:35,096 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 16:43:35,152 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:35,152 [INFO] (scheduler.py:93): Playback speed updated to: 1.50
+2026-06-30 16:43:35,344 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:35,344 [INFO] (scheduler.py:93): Playback speed updated to: 1.60
+2026-06-30 16:43:36,000 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:43:36,000 [INFO] (scheduler.py:93): Playback speed updated to: 1.50
+2026-06-30 16:43:39,058 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 40288, Speed: 1.50, Transposition: 0, Humanize: False
+2026-06-30 16:43:39,058 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:43:39,058 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:46:57,284 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 16:46:57,284 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 16:46:57,285 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:46:57,285 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 16:51:39,888 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:51:39,888 [INFO] (scheduler.py:105): Humanize mode updated to: True
+2026-06-30 16:51:43,361 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 40288, Speed: 1.50, Transposition: 0, Humanize: True
+2026-06-30 16:51:43,362 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:51:43,362 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:52:04,410 [INFO] (scheduler.py:133): Seeked to 87.26s (index 1390/40288)
+2026-06-30 16:52:04,411 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 16:52:04,495 [INFO] (scheduler.py:133): Seeked to 88.34s (index 1401/40288)
+2026-06-30 16:52:50,972 [INFO] (scheduler.py:133): Seeked to 193.91s (index 7779/40288)
+2026-06-30 16:52:50,972 [INFO] (player.py:115): Releasing all active keys (count: 25)...
+2026-06-30 16:53:17,731 [INFO] (scheduler.py:133): Seeked to 257.47s (index 17370/40288)
+2026-06-30 16:53:17,732 [INFO] (player.py:115): Releasing all active keys (count: 60)...
+2026-06-30 16:53:24,195 [INFO] (scheduler.py:133): Seeked to 248.85s (index 14766/40288)
+2026-06-30 16:53:24,195 [INFO] (player.py:115): Releasing all active keys (count: 59)...
+2026-06-30 16:53:24,583 [INFO] (scheduler.py:133): Seeked to 256.40s (index 16568/40288)
+2026-06-30 16:53:24,584 [INFO] (player.py:115): Releasing all active keys (count: 40)...
+2026-06-30 16:53:28,303 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 16:53:32,253 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 16:53:36,519 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 16:53:47,407 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:53:47,408 [INFO] (scheduler.py:105): Humanize mode updated to: False
+2026-06-30 16:54:04,697 [INFO] (player.py:115): Releasing all active keys (count: 60)...
+2026-06-30 16:54:04,725 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:54:04,725 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 16:58:14,679 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 16:58:14,720 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 16:58:14,841 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 16:58:14,842 [INFO] (main.py:281): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 16:58:17,475 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 9200, Speed: 1.50, Transposition: 0, Humanize: False
+2026-06-30 16:58:17,475 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 16:58:17,475 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 16:58:20,332 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 16:58:20,333 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 16:58:22,143 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:58:22,143 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 16:58:22,295 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:58:22,295 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 16:58:22,447 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:58:22,447 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 16:58:22,607 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:58:22,607 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 16:58:22,775 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 16:58:22,775 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 16:58:24,309 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 16:58:50,901 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 16:58:51,402 [INFO] (player.py:115): Releasing all active keys (count: 6)...
+2026-06-30 16:58:51,406 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 16:58:51,406 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 17:05:52,824 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 17:05:52,825 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 17:05:52,825 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 17:08:30,221 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 17:08:30,221 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 17:08:30,221 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 17:10:48,117 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Jojo theme.mid.mid
+2026-06-30 17:10:48,138 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 17:10:48,206 [INFO] (midi_reader.py:77): Extracted 5300 note events from MIDI.
+2026-06-30 17:10:48,207 [INFO] (main.py:281): Song loaded: Jojo theme.mid.mid
+2026-06-30 17:10:50,446 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:10:50,446 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 17:10:50,526 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:10:50,526 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 17:10:52,102 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:10:52,102 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 17:10:53,950 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:10:53,950 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 17:10:58,225 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5300, Speed: 1.20, Transposition: 0, Humanize: False
+2026-06-30 17:10:58,226 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 17:10:58,226 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 17:14:12,255 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:14:12,255 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 17:14:41,592 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 17:14:41,592 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 17:14:41,592 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 17:18:13,230 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:18:13,230 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 17:18:13,309 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:18:13,310 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 17:18:13,869 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 17:18:13,870 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 17:18:17,295 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5300, Speed: 1.20, Transposition: 0, Humanize: False
+2026-06-30 17:18:17,296 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 17:18:17,296 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 17:18:47,937 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 17:18:47,940 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 17:19:34,925 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 17:20:18,860 [INFO] (player.py:115): Releasing all active keys (count: 5)...
+2026-06-30 17:20:18,862 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 17:21:18,138 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 17:21:18,640 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 17:21:18,640 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 17:21:18,640 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 17:21:18,641 [INFO] (main.py:754): Application shut down cleanly.
+2026-06-30 21:20:15,563 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 21:20:15,569 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 21:20:15,574 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 21:20:15,575 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 21:20:21,586 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/C418 - Sweden.mid
+2026-06-30 21:20:21,607 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 21:20:21,617 [INFO] (midi_reader.py:77): Extracted 486 note events from MIDI.
+2026-06-30 21:20:21,618 [INFO] (main.py:281): Song loaded: C418 - Sweden.mid
+2026-06-30 21:20:24,877 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:20:24,877 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 21:20:25,181 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:20:25,181 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 21:20:28,525 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 486, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 21:20:28,525 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 21:20:28,525 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 21:22:21,474 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 21:22:21,475 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 21:22:21,475 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 21:37:29,586 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Rush E.mid
+2026-06-30 21:37:29,750 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 21:37:30,242 [INFO] (midi_reader.py:77): Extracted 40288 note events from MIDI.
+2026-06-30 21:37:30,247 [INFO] (main.py:281): Song loaded: Rush E.mid
+2026-06-30 21:37:30,821 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:30,821 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 21:37:30,869 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:30,869 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 21:37:30,917 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:30,917 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 21:37:31,965 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:31,966 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 21:37:32,013 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:32,013 [INFO] (scheduler.py:93): Playback speed updated to: 1.50
+2026-06-30 21:37:32,141 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:32,141 [INFO] (scheduler.py:93): Playback speed updated to: 1.60
+2026-06-30 21:37:32,661 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:32,661 [INFO] (scheduler.py:93): Playback speed updated to: 1.50
+2026-06-30 21:37:32,773 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:32,773 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 21:37:33,437 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 21:37:33,437 [INFO] (scheduler.py:93): Playback speed updated to: 1.50
+2026-06-30 21:37:40,199 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 40288, Speed: 1.50, Transposition: 0, Humanize: False
+2026-06-30 21:37:40,200 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 21:37:40,200 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 21:40:58,425 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 21:40:58,426 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 21:40:58,427 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 21:40:58,427 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:22:18,523 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/mrsmagic.mid
+2026-06-30 22:22:18,532 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 480
+2026-06-30 22:22:18,534 [INFO] (midi_reader.py:77): Extracted 148 note events from MIDI.
+2026-06-30 22:22:18,534 [INFO] (main.py:281): Song loaded: mrsmagic.mid
+2026-06-30 22:22:20,414 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:22:20,414 [INFO] (scheduler.py:93): Playback speed updated to: 1.40
+2026-06-30 22:22:20,438 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:22:20,438 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 22:22:20,494 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:22:20,494 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 22:22:20,902 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:22:20,902 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 22:22:22,350 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:22:22,350 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 22:22:26,913 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 148, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 22:22:26,913 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:22:26,914 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:22:44,305 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 22:22:44,305 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:22:44,305 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:22:50,915 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mrs Magic.mid
+2026-06-30 22:22:50,931 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 22:22:50,959 [INFO] (midi_reader.py:77): Extracted 2172 note events from MIDI.
+2026-06-30 22:22:50,960 [INFO] (main.py:281): Song loaded: Mrs Magic.mid
+2026-06-30 22:22:53,999 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 2172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 22:22:54,000 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:22:54,000 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:23:57,545 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 22:23:57,547 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:26:00,901 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 22:26:30,536 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 22:26:30,538 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:27:16,773 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 22:27:17,274 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:27:17,275 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:27:58,368 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/i thought i saw your face today.mid
+2026-06-30 22:27:58,370 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 384
+2026-06-30 22:27:58,375 [INFO] (midi_reader.py:77): Extracted 376 note events from MIDI.
+2026-06-30 22:27:58,375 [INFO] (main.py:281): Song loaded: i thought i saw your face today.mid
+2026-06-30 22:28:02,519 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 376, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 22:28:02,520 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:28:02,520 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:28:17,111 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 22:28:17,111 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:28:17,111 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:28:49,884 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/I Thought I Saw Your Face Today - feat. Skelly.mid
+2026-06-30 22:28:49,887 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 22:28:49,896 [INFO] (midi_reader.py:77): Extracted 750 note events from MIDI.
+2026-06-30 22:28:49,897 [INFO] (main.py:281): Song loaded: I Thought I Saw Your Face Today - feat. Skelly.mid
+2026-06-30 22:28:52,920 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 750, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 22:28:52,920 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:28:52,920 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:30:20,602 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 22:30:20,603 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:30:20,603 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:30:21,144 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:30:21,144 [INFO] (main.py:754): Application shut down cleanly.
+2026-06-30 22:33:04,421 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 22:33:04,426 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 22:33:04,432 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 22:33:04,432 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:33:07,196 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Frank Sinatra - My Way.mid
+2026-06-30 22:33:07,233 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 2, Ticks per beat: 240
+2026-06-30 22:33:07,338 [INFO] (midi_reader.py:77): Extracted 7172 note events from MIDI.
+2026-06-30 22:33:07,339 [INFO] (main.py:281): Song loaded: Frank Sinatra - My Way.mid
+2026-06-30 22:33:23,949 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 7172, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 22:33:23,949 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:33:23,949 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:33:37,283 [INFO] (player.py:115): Releasing all active keys (count: 7)...
+2026-06-30 22:33:37,289 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:33:50,564 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 22:34:26,019 [INFO] (player.py:115): Releasing all active keys (count: 7)...
+2026-06-30 22:34:26,023 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:34:30,988 [INFO] (scheduler.py:133): Seeked to 146.28s (index 4290/7172)
+2026-06-30 22:34:30,988 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 22:34:33,007 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 22:36:39,526 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 22:36:39,526 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:36:39,526 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:37:37,743 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Jojo theme.mid.mid
+2026-06-30 22:37:37,775 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 22:37:37,852 [INFO] (midi_reader.py:77): Extracted 5300 note events from MIDI.
+2026-06-30 22:37:37,853 [INFO] (main.py:281): Song loaded: Jojo theme.mid.mid
+2026-06-30 22:37:40,782 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:37:40,782 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 22:37:40,942 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:37:40,942 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 22:37:41,070 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:37:41,070 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 22:37:42,158 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:37:42,158 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 22:37:45,152 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5300, Speed: 1.20, Transposition: 0, Humanize: False
+2026-06-30 22:37:45,153 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:37:45,153 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:41:30,971 [INFO] (scheduler.py:154): All events played. Stopping playback.
+2026-06-30 22:41:30,971 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:41:30,971 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:45:13,926 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:45:13,926 [INFO] (scheduler.py:93): Playback speed updated to: 1.30
+2026-06-30 22:45:14,350 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 22:45:14,351 [INFO] (scheduler.py:93): Playback speed updated to: 1.20
+2026-06-30 22:45:17,464 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 5300, Speed: 1.20, Transposition: 0, Humanize: False
+2026-06-30 22:45:17,464 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 22:45:17,464 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:45:24,334 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 22:45:24,334 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:45:45,241 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 22:45:57,661 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 22:45:57,663 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:46:00,129 [INFO] (scheduler.py:133): Seeked to 51.05s (index 936/5300)
+2026-06-30 22:46:01,637 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 22:46:42,664 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 22:46:42,664 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 22:48:49,404 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 22:48:49,905 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:48:49,905 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 22:48:49,905 [INFO] (main.py:754): Application shut down cleanly.
+2026-06-30 22:48:49,905 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 22:54:53,037 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 22:54:53,044 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 22:54:53,044 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 22:54:53,045 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 22:55:07,290 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/SINATRA.Something stupid K.mid
+2026-06-30 22:55:07,335 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 480
+2026-06-30 22:55:07,449 [INFO] (midi_reader.py:77): Extracted 9200 note events from MIDI.
+2026-06-30 22:55:07,450 [INFO] (main.py:281): Song loaded: SINATRA.Something stupid K.mid
+2026-06-30 23:09:16,639 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 23:09:16,639 [INFO] (scheduler.py:93): Playback speed updated to: 1.10
+2026-06-30 23:09:17,766 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 23:09:17,766 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 23:09:17,806 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 23:09:17,806 [INFO] (scheduler.py:93): Playback speed updated to: 0.90
+2026-06-30 23:09:18,862 [INFO] (config.py:46): Configuration successfully saved to config.json
+2026-06-30 23:09:18,862 [INFO] (scheduler.py:93): Playback speed updated to: 1.00
+2026-06-30 23:16:47,913 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 9200, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 23:16:47,913 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 23:16:47,913 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:16:57,753 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 23:16:57,755 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 23:17:22,153 [INFO] (scheduler.py:71): Playback resumed.
+2026-06-30 23:17:51,201 [INFO] (player.py:115): Releasing all active keys (count: 6)...
+2026-06-30 23:17:51,205 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 23:18:42,166 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 23:18:42,667 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:18:42,668 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 23:18:54,508 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-30 23:18:54,518 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 1, Ticks per beat: 480
+2026-06-30 23:18:54,529 [INFO] (midi_reader.py:77): Extracted 838 note events from MIDI.
+2026-06-30 23:18:54,529 [INFO] (main.py:281): Song loaded: Mario Bros. - Super Mario Bros. Theme.mid
+2026-06-30 23:18:58,321 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 838, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 23:18:58,321 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 23:18:58,321 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:19:03,703 [INFO] (player.py:115): Releasing all active keys (count: 1)...
+2026-06-30 23:19:03,704 [INFO] (scheduler.py:62): Playback paused.
+2026-06-30 23:20:06,294 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 23:20:06,796 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:20:06,797 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 23:20:53,015 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:20:53,015 [INFO] (main.py:754): Application shut down cleanly.
+2026-06-30 23:27:42,340 [INFO] (utils.py:24): Logging initialized. Writing logs to C:\Users\ixubux\The Piano\logs\app.log
+2026-06-30 23:27:42,348 [INFO] (config.py:34): Configuration loaded from config.json
+2026-06-30 23:27:42,349 [INFO] (mapper.py:25): Loaded 61 key mappings from virtual_piano.json
+2026-06-30 23:27:42,349 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:29:16,446 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/midi files/Moonlight On The River _ Mac DeMarco.mid
+2026-06-30 23:29:16,453 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 1, Tracks: 5, Ticks per beat: 384
+2026-06-30 23:29:16,473 [INFO] (midi_reader.py:77): Extracted 1578 note events from MIDI.
+2026-06-30 23:29:16,473 [INFO] (main.py:281): Song loaded: Moonlight On The River _ Mac DeMarco.mid
+2026-06-30 23:29:18,975 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 1578, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 23:29:18,975 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 23:29:18,975 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:29:25,774 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 23:29:26,275 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 23:29:26,276 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:29:26,276 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 23:29:29,584 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 1578, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 23:29:29,584 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 23:29:29,585 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:29:32,438 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 23:29:32,939 [INFO] (player.py:115): Releasing all active keys (count: 4)...
+2026-06-30 23:29:32,940 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:29:32,940 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 23:29:40,853 [INFO] (midi_reader.py:21): Loading MIDI file: C:/Users/ixubux/Downloads/midi files/marriedlife2.mid
+2026-06-30 23:29:40,871 [INFO] (midi_reader.py:29): MIDI file loaded. Type: 0, Tracks: 1, Ticks per beat: 384
+2026-06-30 23:29:40,902 [INFO] (midi_reader.py:77): Extracted 2428 note events from MIDI.
+2026-06-30 23:29:40,902 [INFO] (main.py:281): Song loaded: marriedlife2.mid
+2026-06-30 23:29:44,032 [INFO] (scheduler.py:49): Starting playback from 0.00s. Note count: 2428, Speed: 1.00, Transposition: 0, Humanize: False
+2026-06-30 23:29:44,032 [INFO] (scheduler.py:140): Playback thread loop running.
+2026-06-30 23:29:44,032 [INFO] (utils.py:34): Windows high-resolution timer (1ms) enabled.
+2026-06-30 23:29:58,863 [INFO] (scheduler.py:80): Playback stopped.
+2026-06-30 23:29:59,363 [INFO] (player.py:115): Releasing all active keys (count: 2)...
+2026-06-30 23:29:59,364 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:29:59,364 [INFO] (scheduler.py:246): Playback thread loop ended.
+2026-06-30 23:31:03,587 [INFO] (utils.py:47): Windows high-resolution timer restored.
+2026-06-30 23:31:03,588 [INFO] (main.py:754): Application shut down cleanly.

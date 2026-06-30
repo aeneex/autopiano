@@ -1,0 +1,8 @@
+{
+    "playback_speed": 1.0,
+    "transposition": 0,
+    "humanize": false,
+    "hotkeys": true,
+    "mapping": "virtual_piano.json",
+    "start_delay": 2
+}
